@@ -56,7 +56,11 @@
 
 ### Spotify Playing 🎧
 
-> [Spotify Stats for Github Pofile](https://github.com/narixius/github-profile-spotify-stats)
+![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31wtgfte5krejy4bhcoopgyp7zsa&cover_image=true&theme=default)
+
+## Last Songs🕓
+
+![Spotify Playing](https://spotify-recently-played-readme.vercel.app/api?user=31wtgfte5krejy4bhcoopgyp7zsa&unique={true|1|on|yes})
 
 ---
 
