@@ -15,7 +15,7 @@
 </a>
 
 <!-- LinkedIn -->
-<a href="https://www.linkedin.com/in/erwinlejeune-lkn">
+<a href="https://www.linkedin.com/in/virtualhometecnology/">
   <img alt="LinkedIn" width="50px" src="https://user-images.githubusercontent.com/43545812/144035037-0f415fc7-9f96-4517-a370-ccc6e78a714b.png" />
 </a>
 
@@ -49,18 +49,6 @@
 - 📚 I’m currently learning about Backend technologies like Python, C++ and TypeScript. 
 - 💪🏼 Future Goals: Work and develop robots with my resources and knowledge.
 - ⚡ Fun fact: I love to play soccer and learn to maths.
-
----
-
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
-
-### Spotify Playing 🎧
-
-![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31wtgfte5krejy4bhcoopgyp7zsa&cover_image=true&theme=default)
-
-## Last Songs🕓
-
-![Spotify Playing](https://spotify-recently-played-readme.vercel.app/api?user=31wtgfte5krejy4bhcoopgyp7zsa&unique={true|1|on|yes})
 
 ---
 
@@ -110,4 +98,4 @@
 [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mateolgallegoss&theme=github-dark-dimmed&custom_title=Your%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ---
 
-Last Edited on: 19/03/2026
+Last Edited on: 22/03/2026
