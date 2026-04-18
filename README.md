@@ -41,12 +41,12 @@
 
 <img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Bgstatic&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
 
-## I'm a Begginer Programmer, with two years of experience. 
+## I'm a Begginer Programmer, with two months of experience. 
 
 <img align="right" alt="GIF" height="120px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 - 👨‍💻 I’m currently working on my programming knowledge and adquiring new tools, arrays, algorimths and .
-- 📚 I’m currently learning about Backend technologies like Python, C++ and TypeScript. 
+- 📚 I’m currently learning about Backend technologies like Python, SQL and Internet protocols. 
 - 💪🏼 Future Goals: Work and develop robots with my resources and knowledge.
 - ⚡ Fun fact: I love to play soccer and learn to maths.
 
@@ -54,7 +54,6 @@
 
 ### Languages, Tools and Plattforms 🛠 
 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -70,8 +69,6 @@
 ![AutoDesk](https://img.shields.io/badge/autodesk-%23000000.svg?style=for-the-badge&logo=autodesk&logoColor=white)
 ![Tinkercad](https://img.shields.io/badge/Tinkercad-%231477D1.svg?style=for-the-badge&logo=tinkercad&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white)
 ![Perplexity](https://img.shields.io/badge/perplexity-000000?style=for-the-badge&logo=perplexity&logoColor=088F8F)
 ![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)
 ![Khan Academy](https://img.shields.io/badge/KhanAcademy-%2314BF96.svg?style=for-the-badge&logo=KhanAcademy&logoColor=white)
@@ -98,4 +95,4 @@
 [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mateolgallegoss&theme=github-dark-dimmed&custom_title=Your%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ---
 
-Last Edited on: 22/03/2026
+Last Edited on: 18/04/2026
