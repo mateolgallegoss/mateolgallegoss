@@ -45,10 +45,10 @@
 
 <img align="right" alt="GIF" height="120px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-- 👨‍💻 I’m currently working on my programming knowledge and adquiring new tools, arrays, algorimths and .
+- 👨‍💻 I’m currently working on my programming knowledge, learning tools, understanding algorithms
 - 📚 I’m currently learning about Backend technologies like Python, SQL and Internet protocols. 
-- 💪🏼 Future Goals: Work and develop robots with my resources and knowledge.
-- ⚡ Fun fact: I love to play soccer and learn to maths.
+- 💪🏼 Future Goals: Work and develop robots with my resources and knowledge. Also, I wanna manage databases and the internal proccess of API's.
+- ⚡ Fun fact: I love to play soccer and learn to pure maths.
 
 ---
 
