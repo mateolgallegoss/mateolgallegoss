@@ -41,39 +41,25 @@
 
 <img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Bgstatic&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
 
-## I'm a Begginer Programmer, with two months of experience. 
+## I'm a Begginer Programmer, with fourth months of experience. 
 
 <img align="right" alt="GIF" height="120px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-- 👨‍💻 I’m currently working on my programming knowledge, learning tools, understanding algorithms
-- 📚 I’m currently learning about Backend technologies like Python, SQL and Internet protocols. 
-- 💪🏼 Future Goals: Work and develop robots with my resources and knowledge. Also, I wanna manage databases and the internal proccess of API's.
-- ⚡ Fun fact: I love to play soccer and learn to pure maths.
+- 👨‍💻 I’m currently working on my programming knowledge, learning tools, understanding agents workflow.
+- 📚 I’m currently learning about Networking, Golang and AI agents (focussing o harnesses). 
+- 💪🏼 Future Goals: Build and deploy systems with clean architecture, with AI-agents purposes.
+- ⚡ Fun fact: I love to use Linux, I'm defender of Unix philosophy: "Do one thing, and do it well".
 
 ---
 
-### Languages, Tools and Plattforms 🛠 
+### Languages
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Arduino IDE](https://img.shields.io/badge/Arduino%20IDE-%2300979D.svg?style=for-the-badge&logo=Arduino&logoColor=white)
-![PlatformIO](https://img.shields.io/badge/PlatformIO-%23222.svg?style=for-the-badge&logo=platformio&logoColor=%23f5822a)
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![AutoDesk](https://img.shields.io/badge/autodesk-%23000000.svg?style=for-the-badge&logo=autodesk&logoColor=white)
-![Tinkercad](https://img.shields.io/badge/Tinkercad-%231477D1.svg?style=for-the-badge&logo=tinkercad&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-![Perplexity](https://img.shields.io/badge/perplexity-000000?style=for-the-badge&logo=perplexity&logoColor=088F8F)
-![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)
-![Khan Academy](https://img.shields.io/badge/KhanAcademy-%2314BF96.svg?style=for-the-badge&logo=KhanAcademy&logoColor=white)
+---
 
-<br/>
+### Tools 🛠 
+
+---
+### Plattforms  
 
 ---
 
