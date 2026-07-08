@@ -1,7 +1,7 @@
 ## Hi there, I'm Mateo Gallegos - aka Misito <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
 
 <p align="center">
-  <img src="https://socialify.git.ci/mateolgallegoss/mateolgallegoss/image?font=Source%20Code%20Pro&forks=1&issues=1&language=1&name=1&owner=1&pattern=Plus&pulls=1&stargazers=5&theme=Dark" alt="mateolgallegoss " width="700" height="300" />
+  <img src="https://socialify.git.ci/mateolgallegoss/mateolgallegoss/image?font=Source%20Code%20Pro&forks=1&issues=1&language=1&name=1&owner=1&pattern=Plus&pulls=1&stargazers=1&theme=Dark" alt="mateolgallegoss " width="700" height="300" />
 </p>
 
 
