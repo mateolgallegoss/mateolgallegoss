@@ -102,7 +102,7 @@
   
   <div align="center"> 
      <a href="">
-      <img align="center" src="media/083020261053" />
+      <img align="center" src="media/083020261053.png"/>
     </a>
 </div
 
