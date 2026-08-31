@@ -41,13 +41,13 @@
 
 <img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Bgstatic&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
 
-## I'm a Begginer Programmer, with five months of experience. 
+## I'm a Begginer Programmer, with seven months of experience. 
 
 <img align="right" alt="GIF" height="120px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-- 👨‍💻 I’m currently working on my programming knowledge, learning tools, understanding agents workflow.
-- 📚 I’m currently learning about Networking, Golang and AI agents (focussing o harnesses). 
-- 💪🏼 Future Goals: Build and deploy systems with clean architecture, with AI-agents purposes.
+- 👨‍💻 I’m currently working on my programming logic, understanding how linux and networks works.
+- 📚 I’m currently learning about Networking, Golang and Linux. 
+- 💪🏼 Future Goals: Become a pentester junior, with his own home-lab, with AI-agents lab.
 - ⚡ Fun fact: I love to use Linux, I'm defender of Unix philosophy: "Do one thing, and do it well".
 
 ---
